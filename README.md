@@ -1,6 +1,5 @@
 
 # CyberSecurity URL Guard Botu
-# Kurulum
 
 # Destek/İletişim
 Discord: https://discord.gg/kore
