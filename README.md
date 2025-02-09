@@ -1,5 +1,5 @@
 
-# CyberSecurity URL Guard Botu
+# Godzilla URL Guard Botu
 
 ![Screenshot_165](https://github.com/user-attachments/assets/312c5c64-9296-43ac-8797-7bdb36b978c3)
 
