@@ -7,8 +7,7 @@
 
 # Destek/İletişim
 Discord: https://discord.gg/kore
-Discord Owner: lexsafx
-Discord Developer Nick: cybersecurity.com
+Discord Owner: cybersecurity.com
 
 YouTube: https://www.youtube.com/channel/UCu1Zo-h3YpW8HrXh-MySTCw
 
