@@ -1,21 +1,13 @@
 
-# Boran Gökden URL Guard Botu
+# CyberSecurity URL Guard Botu
 # Kurulum
 
-borangkdn.js Dosyasını açın,
-
-    "Vanity_URL": "URL ORNEK (discord.gg/xxx ise sadece xxx yazın)",
-    "Log_Channel": "URL CALINDIGINDA MESAJ ATILAN LOG KANAL ID",
-    "Bot_Token": "TOKEN BURAYA YAZIN"
-
-ve kaydedin, sonra cmd açın npm i discord.js yazıp enter'a basın sonra baslat.bat a basarak çalıştırabilirsiniz.
-
 # Destek/İletişim
-Discord: https://discord.gg/borangkdn 
-Discord Nick: Boran Gökden#0001
+Discord: https://discord.gg/kore
+Discord Nick: cybersecurity.com
 
-YouTube: https://youtube.com/@borangokden
+YouTube: [https://youtube.com/@borangokden](https://www.youtube.com/channel/UCu1Zo-h3YpW8HrXh-MySTCw)
 
-Instagram: https://www.instagram.com/borangokden/
+Instagram: https://www.instagram.com/cybersecuritydc/
 
 İyi kullanımlar.
